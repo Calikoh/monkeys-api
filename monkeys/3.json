@@ -1,5 +1,9 @@
 {
       "id": 3,
       "species": "spider monkey",
-      "continent": "south america"
+      "continent": "south america",
+      "weight": "3 pounds",
+      "height": "30 inches",
+      "lifespan": "40 years",
+      "image": "https://www.treehugger.com/thmb/yEQHYWx5Fs4evO_7bdC7BLNPMbI=/1414x1414/smart/filters:no_upscale()/GettyImages-577021955-525bf22319f442a099b0e565201fec68.jpg"
     }
