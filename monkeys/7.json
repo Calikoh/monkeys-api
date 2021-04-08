@@ -1,5 +1,9 @@
 {
       "id": 7,
       "species": "rhesus macaque",
-      "continent": "asia"
+      "continent": "asia",
+      "weight": "17 pounds",
+      "height": "20 inches",
+      "lifespan": "30 years",
+      "image": "https://thumbs-prod.si-cdn.com/vPKiPMuY8fjVuhRC8xmLTL2TgnM=/fit-in/1600x0/https://public-media.si-cdn.com/filer/29/05/290585c9-b041-42e1-a01f-683e5b6e7fb4/ap_17347595951300.jpg"
     }
