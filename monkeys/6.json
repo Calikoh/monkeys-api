@@ -1,5 +1,9 @@
 {
       "id": 6,
       "species": "capuchin",
-      "continent": "central america"
+      "continent": "central america",
+      "weight": "8 pounds",
+      "height": "18 inches",
+      "lifespan": "25 years",
+      "image": "https://cdn.britannica.com/05/181805-050-C9682415/capuchin-monkey.jpg"
     }
