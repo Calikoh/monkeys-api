@@ -1,5 +1,10 @@
 {
       "id": 1,
       "species": "gibbon",
-      "continent": "asia"
+      "continent": "asia",
+      "weight": "13 pounds",
+      "height": "26 inches",
+      "lifespan": "35 years",
+      "image": "https://leakeyfoundation.org/wp-content/uploads/2018/10/gibbon-sitting.jpg"
+      
     }
