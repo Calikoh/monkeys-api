@@ -1,0 +1,34 @@
+{
+  "monkeys": [
+    {
+      "id": 1,
+      "species": "gibbon"
+    },
+     {
+      "id": 2,
+      "species": "howler monkey"
+    },
+     {
+      "id": 3,
+      "species": "spider monkey"
+    },
+     {
+      "id": 4,
+      "species": "mandril"
+    },
+     {
+      "id": 5,
+      "species": "baboon"
+    },
+     {
+      "id": 6,
+      "species": "capuchin"
+    },
+     {
+      "id": 7,
+      "species": "rhesus macaque"
+    },
+     {
+      "id": 8,
+      "species": "pygmy marmoset"
+    },
