@@ -1,5 +1,9 @@
 {
       "id": 4,
       "species": "mandril",
-      "continent": "africa"
+      "continent": "africa",
+      "weight": "80 pounds",
+      "height": "24 inches",
+      "lifespan": "20 years",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Mandrill_at_SF_Zoo.jpg/1200px-Mandrill_at_SF_Zoo.jpg"
     }
