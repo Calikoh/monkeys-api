@@ -1,5 +1,9 @@
 {
       "id": 8,
       "species": "pygmy marmoset",
-      "continent": "south america"
+      "continent": "south america",
+      "weight": "0.5 pounds",
+      "height": "6 inches",
+      "lifespan": "12 years",
+      "image": "http://animalia.bio/uploads/animals/photos/full/1.25x1/pygmy-marmoset-13.jpg"
     }
