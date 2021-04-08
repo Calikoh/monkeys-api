@@ -1,5 +1,9 @@
 {
       "id": 5,
       "species": "baboon",
-      "continent": "africa"
+      "continent": "africa",
+      "weight": "66 pounds",
+      "height": "27 inches",
+      "lifespan": "45 years",
+      "image": "https://cdn.mos.cms.futurecdn.net/5VRpoZoyUuepUJi5kFTzmC.jpg"
     }
