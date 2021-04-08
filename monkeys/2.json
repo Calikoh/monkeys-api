@@ -1,5 +1,9 @@
  {
       "id": 2,
       "species": "howler monkey",
-      "continent": "south america"
+      "continent": "south america",
+       "weight": "20 pounds",
+      "height": "36 inches",
+      "lifespan": "20 years",
+      "image": "https://www.locogringo.com/sites/default/files/uploads/shutterstock_650139160.jpg"
     }
